@@ -23,9 +23,9 @@
         <key>DNSProtocol</key>
         <string>HTTPS</string>
         <key>ServerURL</key>
-        <string>https://dns.adguard-dns.com/dns-query</string>
+        <string>https://freedns.controld.com/dns-query</string>
         <key>ServerName</key>
-        <string>dns.adguard-dns.com</string>
+        <string>freedns.controld.com</string>
       </dict>
     </dict>
   </array>
