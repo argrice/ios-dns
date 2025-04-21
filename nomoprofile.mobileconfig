@@ -11,13 +11,13 @@
       <key>PayloadVersion</key>
       <integer>1</integer>
       <key>PayloadIdentifier</key>
-      <string>com.example.adguarddns</string>
+      <string>NoMoProfile</string>
       <key>PayloadUUID</key>
       <string>82E2DE70-2497-44CE-94B3-AC32DEEC1492</string>
       <key>PayloadEnabled</key>
       <true/>
       <key>PayloadDisplayName</key>
-      <string>AdGuard DNS (DoH)</string>
+      <string>NoMo DNS</string>
       <key>DNSSettings</key>
       <dict>
         <key>DNSProtocol</key>
